@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+#paragraf {
+    background: grey;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
